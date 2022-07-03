@@ -1,0 +1,32 @@
+* {
+  font-family: Helvetica, sans-serif;
+  background-color: #eeeeee;
+}
+
+li {
+  font-size: 18px;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
+
+h1 {
+  background-color: #ffffff;
+  color: #222222;
+  font-size: 36px;
+  text-align: center;
+}
+
+h2 {
+  color: #233586;
+}
+
+p {
+  
+}
+
+li {
+  font-weight: 500;  
+}

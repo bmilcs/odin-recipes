@@ -15,7 +15,7 @@ Welcome to Bryan Miller's Recipes Project, the [first assignment](https://www.th
 # Links
 
 - [Live Demo](https://bmilcs.github.io/odin-recipes/)
-- [My Odin Project Progress](https://github.com/bmilcs/op)
+- [My Odin Project Progress](https://github.com/bmilcs/odin-project)
 
 # Screenshots
 
